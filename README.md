@@ -8,7 +8,7 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
 
 # Content
 
-- Week 1. [Introduction to time series analysis and forecasting](./slides/week1.pdf)
+- Week 1. [Introduction to time series analysis and forecasting](./Slides/Defi3-week1.pdf)
 
 - Week 2. [Forecasting methods (I/II)]()
 
