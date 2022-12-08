@@ -10,13 +10,14 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
 
 - Week 1. [Introduction to time series analysis and forecasting](./Slides/Defi3-week1.pdf)
 
-- Week 2. [Forecasting methods (I/II)](#)
+- Week 2. 
 
-- Week 3. [Forecasting methods (II/II)](#)
+- Week 3. 
 
 # Exercises
 
-- Week 1. 
+- Week 1. Introduction to time series analysis and forecasting [(Notebook)](./Exercises/1_basics.ipynb) [(Solution Notebook)](#)
+
 
 - Week 2. 
 
