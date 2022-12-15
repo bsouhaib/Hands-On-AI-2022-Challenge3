@@ -10,7 +10,7 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
 
 - Week 1. [Introduction to time series analysis and forecasting](./Slides/Defi3-week1.pdf)
 
-- Week 2. [Introduction to time series analysis and forecasting](./Slides/defi3-week2.pdf)
+- Week 2. [Forecasting methods](./Slides/defi3-week2.pdf)
 
 - Week 3. 
 
@@ -21,7 +21,7 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
   - [(Notebook with solutions)](./Exercises/1_basics_solution.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/Hands-On-AI-2022-Challenge3/blob/main/Exercises/1_basics_solution.ipynb))
 
 
-- Week 2. Statistical forecasting methods
+- Week 2. Forecasting methods
   - [(Notebook)](./Exercises/1_basics.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/Hands-On-AI-2022-Challenge3/blob/main/Exercises/2_forecasting.ipynb))
 
 - Week 3. 
