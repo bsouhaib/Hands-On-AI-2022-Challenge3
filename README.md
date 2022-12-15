@@ -10,7 +10,7 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
 
 - Week 1. [Introduction to time series analysis and forecasting](./Slides/Defi3-week1.pdf)
 
-- Week 2. 
+- Week 2. [Introduction to time series analysis and forecasting](./Slides/defi3-week2.pdf)
 
 - Week 3. 
 
