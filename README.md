@@ -21,7 +21,8 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
   - [(Notebook with solutions)](./Exercises/1_basics_solution.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/Hands-On-AI-2022-Challenge3/blob/main/Exercises/1_basics_solution.ipynb))
 
 
-- Week 2. 
+- Week 2. Statistical forecasting methods
+  - [(Notebook)](./Exercises/1_basics.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/Hands-On-AI-2022-Challenge3/blob/main/Exercises/2_forecasting.ipynb))
 
 - Week 3. 
 
