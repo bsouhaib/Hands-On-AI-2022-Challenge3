@@ -23,7 +23,7 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
 
 - Week 2. Forecasting methods
   - [(Notebook)](./Exercises/2_forecasting.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/Hands-On-AI-2022-Challenge3/blob/main/Exercises/2_forecasting.ipynb))
-    - [(Notebook with solutions)](./Exercises/2_forecasting_solution.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/Hands-On-AI-2022-Challenge3/blob/main/Exercises/2_forecasting_solution.ipynb))
+  - [(Notebook with solutions)](./Exercises/2_forecasting_solution.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/Hands-On-AI-2022-Challenge3/blob/main/Exercises/2_forecasting_solution.ipynb))
 
   
   
