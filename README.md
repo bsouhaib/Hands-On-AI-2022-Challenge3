@@ -10,9 +10,9 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
 
 - Week 1. [Introduction to time series analysis and forecasting](./Slides/Defi3-week1.pdf)
 
-- Week 2. [Forecasting methods](./Slides/defi3-week2.pdf)
+- Week 2. [Forecasting methods (I/II)](./Slides/defi3-week2.pdf)
 
-- Week 3. 
+- Week 3. [Forecasting methods (II/II)](./Slides/defi3-week3.pdf)
 
 # Exercises
 
@@ -28,4 +28,6 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
   
   
 - Week 3. 
+
+  - [(Notebook)](./Exercises/3_forecasting_competition.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/Hands-On-AI-2022-Challenge3/blob/main/Exercises/3_forecasting_competition.ipynb))
 
