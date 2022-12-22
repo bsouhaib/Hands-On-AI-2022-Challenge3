@@ -24,9 +24,9 @@ def embed_data(train, valid, test, HORIZON, LAG, freq = "D", variable = 'traffic
     test_inputs, X_test, y_test   = X_y(test, HORIZON, tensor_structure, freq = freq, variable = variable)
     return train_inputs, valid_inputs, test_inputs, X_train, y_train, X_valid, y_valid, X_test, y_test
 
-def plot_learning_curves(history):
+def plot_learning_curves(history, title = ""):
     plot_df = pd.DataFrame.from_dict({'train_loss':history.history['loss'], 'val_loss':history.history['val_loss']})
-    plot_df.plot(logy=True, figsize=(10,10), fontsize=12)
+    plot_df.plot(logy=True, figsize=(10,10), fontsize=12, title = title)
     plt.xlabel('epoch', fontsize=12)
     plt.ylabel('loss', fontsize=12)
     plt.show()
